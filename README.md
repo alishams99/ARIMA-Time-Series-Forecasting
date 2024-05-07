@@ -9,7 +9,7 @@ The dataset (`balance_data.xlsx`) is a sample dataset containing information abo
 ## Usage
 
 1. Ensure you have Python installed on your system.
-2. Clone this repository to your local machine using `git clone https://github.com/your-username/your-repository.git`.
+2. Clone this repository to your local machine using `git clone https://github.com/alishams99/ARIMA-Time-Series-Forecasting.git`.
 3. Navigate to the project directory.
 4. Install the required dependencies by running `pip install -r requirements.txt`.
 5. Run the `arima.py` script to perform time series forecasting using the ARIMA model.
